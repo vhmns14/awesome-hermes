@@ -1,4 +1,4 @@
-# Awesome Hermes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Releases](https://github.com/vhmns14/awesome-hermes/actions/workflows/track-releases.yml/badge.svg)](https://github.com/vhmns14/awesome-hermes/actions/workflows/track-releases.yml)
+# Awesome Hermes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Releases](https://github.com/vhmns14/awesome-hermes/actions/workflows/track-releases.yml/badge.svg)](https://github.com/vhmns14/awesome-hermes/actions/workflows/track-releases.yml) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 > A curated list of awesome resources, models, agents, skills, tools, and community projects around **Hermes** by [Nous Research](https://nousresearch.com) — the open-source self-improving AI agent and the Hermes model family.
 
