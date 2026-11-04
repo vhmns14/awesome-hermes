@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T06:55:31.394297+00:00",
+  "updated_at": "2026-11-04T06:35:40.840750+00:00",
   "repos": {
     "NousResearch/hermes-agent": {
-      "latest_tag": "v0.22.6",
-      "published_at": "2026-11-02T17:18:36Z",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6"
+      "latest_tag": "v0.22.7",
+      "published_at": "2026-11-03T21:53:16Z",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.7"
     },
     "NousResearch/Hermes-Function-Calling": {
       "latest_tag": null,
