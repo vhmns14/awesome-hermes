@@ -41,6 +41,7 @@ Hermes is two things: the **Hermes model family** (open-weight LLMs fine-tuned b
 
 - [agentskills.io Hub](https://agentskills.io) — browse & share community skills usable by Hermes Agent.
 - [Hermes Agent Skills (docs)](https://hermes-agent.nousresearch.com/docs/) — how the self-improving skill loop works.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Developer-alpha knowledge discovery skill for Hermes, using the `hc` CLI to find local skills, PKM notes and encrypted records.
 
 ## Tools & Integrations
 
